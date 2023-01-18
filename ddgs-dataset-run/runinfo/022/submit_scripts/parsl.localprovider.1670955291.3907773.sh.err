@@ -1,0 +1,32 @@
+/home/brpe7306/.local/lib/python3.8/site-packages/Bio/SubsMat/__init__.py:126: BiopythonDeprecationWarning: Bio.SubsMat has been deprecated, and we intend to remove it in a future release of Biopython. As an alternative, please consider using Bio.Align.substitution_matrices as a replacement, and contact the Biopython developers if you still need the Bio.SubsMat module.
+  warnings.warn(
+Rosetta thread failed! Look at the output file rosetta_thread.out
+/home/brpe7306/.local/lib/python3.8/site-packages/Bio/SubsMat/__init__.py:126: BiopythonDeprecationWarning: Bio.SubsMat has been deprecated, and we intend to remove it in a future release of Biopython. As an alternative, please consider using Bio.Align.substitution_matrices as a replacement, and contact the Biopython developers if you still need the Bio.SubsMat module.
+  warnings.warn(
+Rosetta thread failed! Look at the output file rosetta_thread.out
+/home/brpe7306/.local/lib/python3.8/site-packages/Bio/SubsMat/__init__.py:126: BiopythonDeprecationWarning: Bio.SubsMat has been deprecated, and we intend to remove it in a future release of Biopython. As an alternative, please consider using Bio.Align.substitution_matrices as a replacement, and contact the Biopython developers if you still need the Bio.SubsMat module.
+  warnings.warn(
+Rosetta thread failed! Look at the output file rosetta_thread.out
+Rosetta hybridize failed! Look at the output file rosetta_script.out
+/home/brpe7306/.local/lib/python3.8/site-packages/Bio/SubsMat/__init__.py:126: BiopythonDeprecationWarning: Bio.SubsMat has been deprecated, and we intend to remove it in a future release of Biopython. As an alternative, please consider using Bio.Align.substitution_matrices as a replacement, and contact the Biopython developers if you still need the Bio.SubsMat module.
+  warnings.warn(
+Rosetta thread failed! Look at the output file rosetta_thread.out
+Rosetta hybridize failed! Look at the output file rosetta_script.out
+Rosetta hybridize failed! Look at the output file rosetta_script.out
+Rosetta hybridize failed! Look at the output file rosetta_script.out
+/home/brpe7306/.local/lib/python3.8/site-packages/Bio/SubsMat/__init__.py:126: BiopythonDeprecationWarning: Bio.SubsMat has been deprecated, and we intend to remove it in a future release of Biopython. As an alternative, please consider using Bio.Align.substitution_matrices as a replacement, and contact the Biopython developers if you still need the Bio.SubsMat module.
+  warnings.warn(
+Rosetta thread failed! Look at the output file rosetta_thread.out
+Rosetta hybridize failed! Look at the output file rosetta_script.out
+/home/brpe7306/.local/lib/python3.8/site-packages/Bio/SubsMat/__init__.py:126: BiopythonDeprecationWarning: Bio.SubsMat has been deprecated, and we intend to remove it in a future release of Biopython. As an alternative, please consider using Bio.Align.substitution_matrices as a replacement, and contact the Biopython developers if you still need the Bio.SubsMat module.
+  warnings.warn(
+Rosetta thread failed! Look at the output file rosetta_thread.out
+/home/brpe7306/.local/lib/python3.8/site-packages/Bio/SubsMat/__init__.py:126: BiopythonDeprecationWarning: Bio.SubsMat has been deprecated, and we intend to remove it in a future release of Biopython. As an alternative, please consider using Bio.Align.substitution_matrices as a replacement, and contact the Biopython developers if you still need the Bio.SubsMat module.
+  warnings.warn(
+Rosetta thread failed! Look at the output file rosetta_thread.out
+Rosetta hybridize failed! Look at the output file rosetta_script.out
+/home/brpe7306/.local/lib/python3.8/site-packages/Bio/SubsMat/__init__.py:126: BiopythonDeprecationWarning: Bio.SubsMat has been deprecated, and we intend to remove it in a future release of Biopython. As an alternative, please consider using Bio.Align.substitution_matrices as a replacement, and contact the Biopython developers if you still need the Bio.SubsMat module.
+  warnings.warn(
+Rosetta thread failed! Look at the output file rosetta_thread.out
+Rosetta hybridize failed! Look at the output file rosetta_script.out
+Rosetta hybridize failed! Look at the output file rosetta_script.out

@@ -1,0 +1,2 @@
+sh: line 1: 58508 Killed                  /projects/kasp8735/software/charmm/exec/gnu/charmm sysname=complex-chm domini=1 ffpath=/projects/kasp8735/software/charmm/toppar_c36_jul18/ -i gbmv.inp > gbmv_mini.out 2>&1
+sh: line 1: 58636 Killed                  /projects/kasp8735/software/charmm/exec/gnu/charmm sysname=complex-chm domini=1 ffpath=/projects/kasp8735/software/charmm/toppar_c36_jul18/ -i gbmv.inp > gbmv_mini.out 2>&1

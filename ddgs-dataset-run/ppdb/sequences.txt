@@ -1,0 +1,3 @@
+#Name                                    RecN LigN               dGexp            Template
+Mut1                                        2    2        -0.335489115  3GBN_all.clean.pdb
+Mut2                                        2    2        -0.173032332  3GBN_all.clean.pdb

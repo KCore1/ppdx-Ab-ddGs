@@ -1,0 +1,20 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - scipy
+  - ipykernel
+  - modeller
+  - pip
+  - imageio
+  - doctest
+  - biopython
+  - conda==23.1.0
+  - pyperf
+  - cryptography=37.0.4
+prefix: /projects/kach6913/software/anaconda/envs/mlenv

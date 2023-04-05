@@ -8,5 +8,5 @@
 #SBATCH --output=ppdx.%j.out
 
 source ~/.bashrc
-conda activate ml_env
+source /projects/kach6913/software/anaconda/envs/mlenv/bin/activate # within project dir
 python3 compute_descriptors.py

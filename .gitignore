@@ -131,6 +131,7 @@ dmypy.json
 
 example-*/models/
 example-*/runinfo/
+ddgs-dataset-run/runinfo/
 
 example-flu/rf.joblib
 example-flu/ppdb/kallewaard.pdf

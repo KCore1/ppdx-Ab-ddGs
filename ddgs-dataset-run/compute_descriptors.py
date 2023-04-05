@@ -31,7 +31,7 @@ local_htex = Config(
     ],
     strategy=None,
 )
-parsl.load(local_htex)
+# parsl.load(local_htex)
 
 def compute(dbpath, nmodels=12, config='pool:12', protocol='modeller_fast'):
 
@@ -78,7 +78,7 @@ def compute(dbpath, nmodels=12, config='pool:12', protocol='modeller_fast'):
     inputs = list()
 #     sequences = ppdx.tools.read_multi_fasta('ppdb/ppdb.seq')
     sequences = ppdx.tools.read_multi_fasta('ppdb/sequences.seq')
-    with open('ppdb/ppdb.txt') as fp:
+    with open('ppdb/sequences.txt') as fp:
         for line in fp:
             if line[0]=='#':
                 continue
@@ -97,9 +97,9 @@ def compute(dbpath, nmodels=12, config='pool:12', protocol='modeller_fast'):
 if __name__=='__main__':
     ppdx.WRKDIR = os.path.join(os.getcwd(), "models")
     for n in range(20):
-        for protocol in ['modeller_fast', 'modeller_veryfast', 'modeller_slow', 'rosetta']:
+        for protocol in ['modeller_fast']: # , 'modeller_veryfast', 'modeller_slow', 'rosetta'
             print(n, protocol)
-            compute(os.path.join(os.getcwd(), 'ppdb'), nmodels=n+1, config='parsl', protocol=protocol)
+            compute(os.path.join(os.getcwd(), 'ppdb'), nmodels=n+1, config='serial', protocol=protocol) # , config='parsl'
             ppdx.clean()
             if os.path.isfile('kill'):
                 print('Kill!')

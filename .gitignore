@@ -142,3 +142,4 @@ example-skempi-itc/skempi/SKEMPI2_PDBs.tgz
 example-skempi-itc/skempi/gdata.ods
 ppdx.pdf
 ddgs-dataset-run/models/
+*.out

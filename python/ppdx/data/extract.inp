@@ -9,7 +9,7 @@
 ! Read FF topology and parameters
 ioform extended
 read rtf  card name @ffpath/top_all36_prot.rtf
-read para card name @ffpath/par_all36_prot.prm flex
+read para card name @ffpath/par_all36m_prot.prm flex
 read rtf  card name @ffpath/top_all36_carb.rtf append
 read para card name @ffpath/par_all36_carb.prm flex append
 read rtf  card name @ffpath/top_all36_lipid.rtf append

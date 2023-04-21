@@ -31,7 +31,7 @@ local_htex = Config(
     ],
     strategy=None,
 )
-# parsl.load(local_htex)
+parsl.load(local_htex)
 
 def compute(dbpath, nmodels=12, config='pool:12', protocol='modeller_fast'):
 
@@ -88,7 +88,7 @@ def compute(dbpath, nmodels=12, config='pool:12', protocol='modeller_fast'):
             nchains = (int(recn), int(lign))
             #if name.startswith('FY'):
             inputs.append([name, sequence, nchains, template])
-
+    
     # Compute the descriptors
     ppdx.eval_descriptors(protocol, desc, inputs, nmodels=nmodels, config=config)
     ppdx.save_descriptors_json(inputs, 'descriptors-all.json')
@@ -99,7 +99,7 @@ if __name__=='__main__':
     for n in range(20):
         for protocol in ['modeller_fast']: # , 'modeller_veryfast', 'modeller_slow', 'rosetta'
             print(n, protocol)
-            compute(os.path.join(os.getcwd(), 'ppdb'), nmodels=n+1, config='serial', protocol=protocol) # , config='parsl'
+            compute(os.path.join(os.getcwd(), 'ppdb'), nmodels=n+1, config='parsl', protocol=protocol) # , config='parsl'
             ppdx.clean()
             if os.path.isfile('kill'):
                 print('Kill!')

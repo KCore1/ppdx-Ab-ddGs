@@ -32,7 +32,7 @@ def main():
     with open('descriptors-all.json') as fp:
         data = json.load(fp)
 
-    for protocol in ['modeller_veryfast', 'modeller_fast', 'modeller_slow', 'rosetta']:
+    for protocol in ['modeller_fast']: # 'modeller_veryfast', , 'modeller_slow', 'rosetta'
         timelst = list()
         for cpx, info in data.items():
             for num, time in info[protocol]['>TIME_makemodel'].items():

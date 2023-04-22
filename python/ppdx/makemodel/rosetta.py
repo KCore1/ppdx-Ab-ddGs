@@ -18,7 +18,7 @@ def rosetta1(target_sequence, template, wrkdir):
         if os.path.isfile(os.path.join(wrkdir, 'model.pdb')):
             return
     else:
-        os.makedirs(wrkdir)
+        os.makedirs(wrkdir, exist_ok=True)
     time_start = timer()
     log.info("Creating model %s/model.pdb..." % (wrkdir))
     basepath = os.getcwd()

@@ -77,7 +77,7 @@ def compute(dbpath, nmodels=12, config='pool:12', protocol='modeller_fast'):
     # Prepare list of what to compute
     inputs = list()
     # sequences = ppdx.tools.read_multi_fasta('ppdb/ppdb.seq')
-    sequences = ppdx.tools.read_multi_fasta('ppdb/all_sequences.seq')
+    sequences = ppdx.tools.read_multi_fasta('ppdb/all_sequences_dedup.seq')
     with open('ppdb/all_sequences.txt') as fp:
         for line in fp:
             if line[0]=='#':

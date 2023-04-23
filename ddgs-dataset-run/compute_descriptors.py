@@ -21,7 +21,7 @@ local_htex = Config(
         HighThroughputExecutor(
             label="htex_Local",
             cores_per_worker=1,
-            max_workers=12,
+            max_workers=32,
             provider=LocalProvider(
                 channel=LocalChannel(),
                 init_blocks=1,
@@ -78,7 +78,9 @@ def compute(dbpath, nmodels=12, config='pool:12', protocol='modeller_fast'):
     inputs = list()
     # sequences = ppdx.tools.read_multi_fasta('ppdb/ppdb.seq')
     sequences = ppdx.tools.read_multi_fasta('ppdb/all_sequences_dedup.seq')
+#     sequences = ppdx.tools.read_multi_fasta('ppdb/sequences.seq')
     with open('ppdb/all_sequences.txt') as fp:
+#     with open('ppdb/sequences.txt') as fp:
         for line in fp:
             if line[0]=='#':
                 continue
@@ -91,18 +93,19 @@ def compute(dbpath, nmodels=12, config='pool:12', protocol='modeller_fast'):
     
     # Compute the descriptors
     ppdx.eval_descriptors(protocol, desc, inputs, nmodels=nmodels, config=config)
-    ppdx.save_descriptors_json(inputs, 'descriptors-all.json')
+    ppdx.save_descriptors_json(inputs, 'descriptors-all-vfst_full.json')
 
 
 if __name__=='__main__':
     ppdx.WRKDIR = os.path.join(os.getcwd(), "models")
     for n in range(20):
-        for protocol in ['modeller_fast']: # , 'modeller_veryfast', 'modeller_slow', 'rosetta'
-            print(n, protocol)
-            compute(os.path.join(os.getcwd(), 'ppdb'), nmodels=n+1, config='parsl', protocol=protocol) # , config='parsl'
-            ppdx.clean()
-            if os.path.isfile('kill'):
-                print('Kill!')
-                quit()
+#         for protocol in ['modeller_fast']: # , 'modeller_veryfast', 'modeller_slow', 'rosetta'
+        protocol = "modeller_veryfast"
+        print(n, protocol)
+        compute(os.path.join(os.getcwd(), 'ppdb'), nmodels=n+1, config='parsl', protocol=protocol)
+        ppdx.clean()
+        if os.path.isfile('kill'):
+            print('Kill!')
+            quit()
 
 

@@ -5,7 +5,7 @@
 #SBATCH --time=24:00:00
 #SBATCH --partition=amilan
 #SBATCH --nodes=1
-#SBATCH --ntasks=4
+#SBATCH --ntasks=24
 #SBATCH --mail-type=END
 #SBATCH --mail-user=karson.chrispens@colorado.edu
 

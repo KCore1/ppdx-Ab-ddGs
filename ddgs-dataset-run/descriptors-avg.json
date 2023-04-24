@@ -1,1752 +1,2825 @@
 {
-    "FI2013__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI2013__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI370__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI4013__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6038__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI6__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FI_UCA__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY18__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY1__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY5__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY6__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP1__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP2__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_BP3__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H1_BJ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H1_BR_2010": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H1_CA_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H1_FM_47": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H1_NC_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H1_PR_34": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H1_SD_2007": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H1_SI_2006": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H1_SZ_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H1_WSN_33": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H2_JP_57": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H3_CA_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H3_HK_68": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H3_PA_99": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H3_PT_2009": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H3_SG_93": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H3_SY_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H3_VC_2011": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H3_VC_75": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H3_WH_95": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H3_WI_2005": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H5_VT_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H6_AB_85": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H7_BC_2004": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
-    },
-    "FY_UCA__H9_HK_97": {
-        "modeller_fast": {},
-        "modeller_slow": {},
-        "modeller_veryfast": {}
+    "1BJ1_H:H101Y": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:H101Y;H:Y103I;H:G104A;H:S105K": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:H101Y;H:Y103R;H:G104N;H:S105T": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:H101Y;H:Y103R;H:S105T": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:H107A": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:L72I;H:T74K": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:L72V;H:T74V": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:N31H": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:S105T": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:T28D": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:T28D;H:N31H": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:T59A": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:Y27A": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:Y54A": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:Y54W": {
+        "modeller_fast": {}
+    },
+    "1BJ1_H:Y99A": {
+        "modeller_fast": {}
+    },
+    "1C08_H:D32A": {
+        "modeller_fast": {}
+    },
+    "1C08_H:D32N": {
+        "modeller_fast": {}
+    },
+    "1C08_H:S31A": {
+        "modeller_fast": {}
+    },
+    "1C08_H:W98A": {
+        "modeller_fast": {}
+    },
+    "1C08_H:W98F": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y33A": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y33F": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y33L": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y33W": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y50A": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y50F": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y50L": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y53A": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y53F": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y53L": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y53W": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y58A": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y58F": {
+        "modeller_fast": {}
+    },
+    "1C08_H:Y58L": {
+        "modeller_fast": {}
+    },
+    "1C08_L:N31A": {
+        "modeller_fast": {}
+    },
+    "1C08_L:N31D": {
+        "modeller_fast": {}
+    },
+    "1C08_L:N31E": {
+        "modeller_fast": {}
+    },
+    "1C08_L:N32A": {
+        "modeller_fast": {}
+    },
+    "1C08_L:N32D": {
+        "modeller_fast": {}
+    },
+    "1C08_L:N92D": {
+        "modeller_fast": {}
+    },
+    "1C08_L:Q53A": {
+        "modeller_fast": {}
+    },
+    "1C08_L:S91A": {
+        "modeller_fast": {}
+    },
+    "1C08_L:S93A": {
+        "modeller_fast": {}
+    },
+    "1C08_L:Y50A": {
+        "modeller_fast": {}
+    },
+    "1C08_L:Y50F": {
+        "modeller_fast": {}
+    },
+    "1C08_L:Y50L": {
+        "modeller_fast": {}
+    },
+    "1C08_L:Y96A": {
+        "modeller_fast": {}
+    },
+    "1C08_L:Y96F": {
+        "modeller_fast": {}
+    },
+    "1DQJ_H:D32A": {
+        "modeller_fast": {}
+    },
+    "1DQJ_H:W98A": {
+        "modeller_fast": {}
+    },
+    "1DQJ_H:Y33A": {
+        "modeller_fast": {}
+    },
+    "1DQJ_H:Y50A": {
+        "modeller_fast": {}
+    },
+    "1DQJ_H:Y53A": {
+        "modeller_fast": {}
+    },
+    "1DQJ_L:N31A": {
+        "modeller_fast": {}
+    },
+    "1DQJ_L:N32A": {
+        "modeller_fast": {}
+    },
+    "1DQJ_L:S91A": {
+        "modeller_fast": {}
+    },
+    "1DQJ_L:Y50A": {
+        "modeller_fast": {}
+    },
+    "1DQJ_L:Y96A": {
+        "modeller_fast": {}
+    },
+    "1DVF_A:H30A": {
+        "modeller_fast": {}
+    },
+    "1DVF_A:S93A": {
+        "modeller_fast": {}
+    },
+    "1DVF_A:W92A": {
+        "modeller_fast": {}
+    },
+    "1DVF_A:Y32A": {
+        "modeller_fast": {}
+    },
+    "1DVF_A:Y49A": {
+        "modeller_fast": {}
+    },
+    "1DVF_A:Y50A": {
+        "modeller_fast": {}
+    },
+    "1DVF_B:D100A": {
+        "modeller_fast": {}
+    },
+    "1DVF_B:D54A": {
+        "modeller_fast": {}
+    },
+    "1DVF_B:D58A": {
+        "modeller_fast": {}
+    },
+    "1DVF_B:E98A": {
+        "modeller_fast": {}
+    },
+    "1DVF_B:N56A": {
+        "modeller_fast": {}
+    },
+    "1DVF_B:R99A": {
+        "modeller_fast": {}
+    },
+    "1DVF_B:T30A": {
+        "modeller_fast": {}
+    },
+    "1DVF_B:W52A": {
+        "modeller_fast": {}
+    },
+    "1DVF_B:Y101F": {
+        "modeller_fast": {}
+    },
+    "1DVF_B:Y32A": {
+        "modeller_fast": {}
+    },
+    "1DVF_C:Y49A": {
+        "modeller_fast": {}
+    },
+    "1DVF_D:D52A": {
+        "modeller_fast": {}
+    },
+    "1DVF_D:H33A": {
+        "modeller_fast": {}
+    },
+    "1DVF_D:K30A": {
+        "modeller_fast": {}
+    },
+    "1JRH_H:D54A": {
+        "modeller_fast": {}
+    },
+    "1JRH_H:D55A": {
+        "modeller_fast": {}
+    },
+    "1JRH_H:D56A": {
+        "modeller_fast": {}
+    },
+    "1JRH_H:F98A": {
+        "modeller_fast": {}
+    },
+    "1JRH_H:H100BA": {
+        "modeller_fast": {}
+    },
+    "1JRH_H:R95A": {
+        "modeller_fast": {}
+    },
+    "1JRH_H:W52A": {
+        "modeller_fast": {}
+    },
+    "1JRH_H:W53A": {
+        "modeller_fast": {}
+    },
+    "1JRH_H:Y32A": {
+        "modeller_fast": {}
+    },
+    "1JRH_H:Y58A": {
+        "modeller_fast": {}
+    },
+    "1JRH_H:Y99A": {
+        "modeller_fast": {}
+    },
+    "1JRH_L:D28A": {
+        "modeller_fast": {}
+    },
+    "1JRH_L:E27A": {
+        "modeller_fast": {}
+    },
+    "1JRH_L:S93A": {
+        "modeller_fast": {}
+    },
+    "1JRH_L:T94A": {
+        "modeller_fast": {}
+    },
+    "1JRH_L:W92A": {
+        "modeller_fast": {}
+    },
+    "1JRH_L:W96A": {
+        "modeller_fast": {}
+    },
+    "1JRH_L:Y30A": {
+        "modeller_fast": {}
+    },
+    "1JRH_L:Y91A": {
+        "modeller_fast": {}
+    },
+    "1KIP_B:A32Y": {
+        "modeller_fast": {}
+    },
+    "1KIQ_B:F101Y": {
+        "modeller_fast": {}
+    },
+    "1KIR_A:S50Y": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:F99W": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:F99Y": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:G100F": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:G100L": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:G100M": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:G100S": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:G53A": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:G53N": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:G53S": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:G54I": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:G54T": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:G54Y": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:K64D": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:K64E": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:K64E;L:S28Q": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:K64E;L:S28Q;L:N52Y": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:K64N": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:K64Q": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:L60D": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:L60D;H:K64E": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:L60D;H:K64Q": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:R31Q": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:S35A": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:S35A;H:G102S": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:S35Q": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:S35V;H:G102S": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:S52M": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T33E;H:G53Q": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T33I;H:S52T;H:G53N;H:G54N": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T33I;H:S52T;H:G53Q;H:G54F": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T33N": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T33V": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T50V": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T50V;H:G102S": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T50V;H:K64E": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T50V;H:K64E;L:S28Q;L:N52E": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T50V;H:K64E;L:S28Q;L:N52Y": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T50V;H:S35A": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T50V;H:S35V": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T50V;L:S28Q": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:T50V;L:S28Q;L:N52Y": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:Y58E": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:Y58Q": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:Y58W": {
+        "modeller_fast": {}
+    },
+    "1MHP_H:Y59E": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:G92Q": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:G92S": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:H31K": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:H31R": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:H31W": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:L49F": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:L49K": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:L49W": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:N30V": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:N30W": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:N30Y": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:N30Y;L:S91I": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:N52D": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:N52E": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:N52K": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:N52R": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:N52Y": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:S24R": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:S28Q": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:S91Q": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:S91R": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:S91T": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:W90Q": {
+        "modeller_fast": {}
+    },
+    "1MHP_L:W90Q;L:F33Y": {
+        "modeller_fast": {}
+    },
+    "1MLC_H:S57A": {
+        "modeller_fast": {}
+    },
+    "1MLC_H:S57V": {
+        "modeller_fast": {}
+    },
+    "1MLC_H:S57V;H:T58D": {
+        "modeller_fast": {}
+    },
+    "1MLC_H:S57V;H:T58D;L:N32G;L:N92A": {
+        "modeller_fast": {}
+    },
+    "1MLC_H:S57V;H:T58D;L:N92A": {
+        "modeller_fast": {}
+    },
+    "1MLC_H:T28D": {
+        "modeller_fast": {}
+    },
+    "1MLC_H:T28D;H:S57V;H:T58D;L:N92A": {
+        "modeller_fast": {}
+    },
+    "1MLC_H:T31A": {
+        "modeller_fast": {}
+    },
+    "1MLC_H:T31V": {
+        "modeller_fast": {}
+    },
+    "1MLC_H:T31W": {
+        "modeller_fast": {}
+    },
+    "1MLC_H:T58D": {
+        "modeller_fast": {}
+    },
+    "1MLC_L:N32G": {
+        "modeller_fast": {}
+    },
+    "1MLC_L:N32G;L:N92A": {
+        "modeller_fast": {}
+    },
+    "1MLC_L:N32Y": {
+        "modeller_fast": {}
+    },
+    "1MLC_L:N92A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:D102N;H:F104M;H:M107N": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:D102P;H:F104M;H:A106E;H:M107H": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:D102P;H:F104M;H:A106T;H:M107N": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:D31A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:G100K;H:A106E;H:M107H": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:G100K;H:G101Q;H:A106E;H:M107H": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:G100P;H:D102G;H:F104M;H:M107N": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:G100P;H:D102P;H:F104M;H:M107N": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:G100R;H:A106E;H:M107H": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:G100R;H:G101D;H:F104L;H:M107H": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:G100R;H:G101H;H:A106E;H:M107N": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:G100R;H:G101P;H:A106E;H:M107H": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:G101N;H:D102G;H:F104M;H:M107N": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:G101N;H:D102P;H:F104M;H:M107N": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:K30A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:T32A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:W99Y;H:D102N;H:F104M;H:M107N": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:W99Y;H:D102P;H:F104L;H:M107N": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:W99Y;H:F104M;H:A106Q;H:M107H": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:W99Y;H:G100R;H:A106E;H:M107H": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:Y33A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_H:Y52A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:D28N": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:F53N": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:H91F": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:N30A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:N30S": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:N30S;L:H91F;L:Y92W": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:R66G": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:S50A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:S52A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:T31A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:T93A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:T94A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:T94S": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:Y49A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:Y92A": {
+        "modeller_fast": {}
+    },
+    "1N8Z_L:Y92F": {
+        "modeller_fast": {}
+    },
+    "1NCA_H:D97K": {
+        "modeller_fast": {}
+    },
+    "1NCA_H:E96D": {
+        "modeller_fast": {}
+    },
+    "1NCA_H:N31Q": {
+        "modeller_fast": {}
+    },
+    "1NCA_H:N98Q": {
+        "modeller_fast": {}
+    },
+    "1NMB_H:D56E": {
+        "modeller_fast": {}
+    },
+    "1NMB_H:D56N": {
+        "modeller_fast": {}
+    },
+    "1NMB_H:Y100AF": {
+        "modeller_fast": {}
+    },
+    "1NMB_H:Y99A": {
+        "modeller_fast": {}
+    },
+    "1NMB_L:L94V": {
+        "modeller_fast": {}
+    },
+    "1NMB_L:T93F": {
+        "modeller_fast": {}
+    },
+    "1NMB_L:T93W": {
+        "modeller_fast": {}
+    },
+    "1NMB_L:Y32F": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:D100A": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:D54A": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:D58E": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:D58N": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:G31A": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:G31E": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:G31W": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:R99W": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:R99Y": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:S28D": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:S28E": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:S28N": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:S28Q": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:W52A": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:Y101A": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:Y101F": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:Y32A": {
+        "modeller_fast": {}
+    },
+    "1VFB_H:Y32E": {
+        "modeller_fast": {}
+    },
+    "1VFB_L:N31W": {
+        "modeller_fast": {}
+    },
+    "1VFB_L:T52F": {
+        "modeller_fast": {}
+    },
+    "1VFB_L:T53R": {
+        "modeller_fast": {}
+    },
+    "1VFB_L:W92A": {
+        "modeller_fast": {}
+    },
+    "1VFB_L:Y32A": {
+        "modeller_fast": {}
+    },
+    "1VFB_L:Y50A": {
+        "modeller_fast": {}
+    },
+    "1VFB_L:Y50K": {
+        "modeller_fast": {}
+    },
+    "1VFB_L:Y50R": {
+        "modeller_fast": {}
+    },
+    "1XGP_B:A33F": {
+        "modeller_fast": {}
+    },
+    "1XGP_B:A33I": {
+        "modeller_fast": {}
+    },
+    "1XGP_B:A33L": {
+        "modeller_fast": {}
+    },
+    "1XGP_B:A33V": {
+        "modeller_fast": {}
+    },
+    "1XGQ_B:V33A": {
+        "modeller_fast": {}
+    },
+    "1XGQ_B:V33F": {
+        "modeller_fast": {}
+    },
+    "1XGQ_B:V33I": {
+        "modeller_fast": {}
+    },
+    "1XGQ_B:V33L": {
+        "modeller_fast": {}
+    },
+    "1XGR_B:I33A": {
+        "modeller_fast": {}
+    },
+    "1XGR_B:I33F": {
+        "modeller_fast": {}
+    },
+    "1XGR_B:I33L": {
+        "modeller_fast": {}
+    },
+    "1XGR_B:I33V": {
+        "modeller_fast": {}
+    },
+    "1XGT_B:L33A": {
+        "modeller_fast": {}
+    },
+    "1XGT_B:L33F": {
+        "modeller_fast": {}
+    },
+    "1XGT_B:L33I": {
+        "modeller_fast": {}
+    },
+    "1XGT_B:L33V": {
+        "modeller_fast": {}
+    },
+    "1XGU_B:F33A": {
+        "modeller_fast": {}
+    },
+    "1XGU_B:F33I": {
+        "modeller_fast": {}
+    },
+    "1XGU_B:F33L": {
+        "modeller_fast": {}
+    },
+    "1XGU_B:F33V": {
+        "modeller_fast": {}
+    },
+    "1YY9_H:N56A": {
+        "modeller_fast": {}
+    },
+    "1YY9_H:T61E": {
+        "modeller_fast": {}
+    },
+    "1YY9_L:N93A": {
+        "modeller_fast": {}
+    },
+    "1YY9_L:S26D": {
+        "modeller_fast": {}
+    },
+    "1YY9_L:S26D;L:T31E;L:N93A": {
+        "modeller_fast": {}
+    },
+    "1YY9_L:T31E": {
+        "modeller_fast": {}
+    },
+    "1YY9_L:T31E;L:N93A": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:E64K": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:E64K;L:Q28S;L:Y52N": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:E64K;L:Q28S;L:Y52N;H:G102S": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:E64K;L:Q28S;L:Y52N;H:S35A": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:E64K;L:Q28S;L:Y52N;H:S35V": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:E64K;L:Y52N": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T;H:E64D;L:Q28S;L:Y52N": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T;H:E64K;L:Q28S": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T;H:E64K;L:Q28S;L:Y52D": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T;H:E64K;L:Q28S;L:Y52E": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T;H:E64K;L:Q28S;L:Y52K": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T;H:E64K;L:Q28S;L:Y52N": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T;H:E64K;L:Q28S;L:Y52R": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T;H:E64K;L:Y52N": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T;H:E64N;L:Q28S;L:Y52N": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T;H:E64Q;L:Q28S;L:Y52N": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T;L:Q28S;L:Y52N": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T;L:Q28S;L:Y52N;H:L60D": {
+        "modeller_fast": {}
+    },
+    "2B2X_H:V50T;L:Y52N": {
+        "modeller_fast": {}
+    },
+    "2B2X_L:Q28S;L:Y52N": {
+        "modeller_fast": {}
+    },
+    "2B2X_L:Y52E": {
+        "modeller_fast": {}
+    },
+    "2BDN_H:D31E": {
+        "modeller_fast": {}
+    },
+    "2BDN_H:L27K": {
+        "modeller_fast": {}
+    },
+    "2BDN_H:L27R": {
+        "modeller_fast": {}
+    },
+    "2BDN_H:N28D": {
+        "modeller_fast": {}
+    },
+    "2BDN_H:N28Q": {
+        "modeller_fast": {}
+    },
+    "2BDN_L:N31K": {
+        "modeller_fast": {}
+    },
+    "2BDN_L:N31R": {
+        "modeller_fast": {}
+    },
+    "2BDN_L:S53D": {
+        "modeller_fast": {}
+    },
+    "2BDN_L:S53E": {
+        "modeller_fast": {}
+    },
+    "2BDN_L:T56D": {
+        "modeller_fast": {}
+    },
+    "2BDN_L:T56E": {
+        "modeller_fast": {}
+    },
+    "2BDN_L:Y30K": {
+        "modeller_fast": {}
+    },
+    "2NY7_H:N31H;H:V33T;H:I34L": {
+        "modeller_fast": {}
+    },
+    "2NY7_H:N31H;H:V33T;H:I34V": {
+        "modeller_fast": {}
+    },
+    "2NY7_H:P97E;H:Y98W;H:S99G": {
+        "modeller_fast": {}
+    },
+    "2NY7_H:V33T;H:H35M": {
+        "modeller_fast": {}
+    },
+    "2NY7_H:V33T;H:I34V": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:A93G;L:S95A": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:A93W;L:S95Q": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:S28K;L:I28AE;L:R29F;L:S30G": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:V90K;L:A93D;L:S95F": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:V90K;L:A93G;L:S94G;L:S95T": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:V90L;L:A93R;L:S94G;L:S95N": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:V90M;L:A93G;L:S94F;L:S95T": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:V90M;L:A93G;L:S94R;L:S95D": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:V90Q;L:A93D;L:S95L": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:V90Q;L:A93W;L:S94P;L:S95F": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:V90S;L:A93G;L:S94R;L:S95D": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:V90T;L:A93R;L:S94G": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:V90T;L:A93R;L:S94G;L:S95H": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:V90T;L:A93R;L:S94G;L:S95I": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:V90T;L:A93R;L:S94G;L:S95V": {
+        "modeller_fast": {}
+    },
+    "2NY7_L:V90T;L:A93W;L:S95G": {
+        "modeller_fast": {}
+    },
+    "2NYY_H:K30R": {
+        "modeller_fast": {}
+    },
+    "2NYY_H:M34Q": {
+        "modeller_fast": {}
+    },
+    "2NYY_H:Y31D": {
+        "modeller_fast": {}
+    },
+    "2NYY_H:Y31Q": {
+        "modeller_fast": {}
+    },
+    "2NYY_H:Y57Q": {
+        "modeller_fast": {}
+    },
+    "2NYY_L:D30Y": {
+        "modeller_fast": {}
+    },
+    "2NYY_L:H34R": {
+        "modeller_fast": {}
+    },
+    "2NYY_L:S28Q": {
+        "modeller_fast": {}
+    },
+    "2NYY_L:S31N": {
+        "modeller_fast": {}
+    },
+    "2NZ9_D:S30K;D:D31Y;D:H32D": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:D31A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:D98A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:F100A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:G96A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:G97A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:G99A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:K30A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:N54A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:R50A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:R58A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:T32A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:T53A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:W95A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:Y100AA": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:Y33A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:Y52A": {
+        "modeller_fast": {}
+    },
+    "3BDY_H:Y56A": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:G31A": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:G51A": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:H91A": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:I27BA": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:I29A": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:P27CA": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:R27DA": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:S28A": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:S30A": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:S52A": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:T93A": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:T94A": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:W50A": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:Y32A": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:Y53A": {
+        "modeller_fast": {}
+    },
+    "3BDY_L:Y92A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:D31A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:D98A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:F100A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:G96A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:G97A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:G99A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:K30A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:N54A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:R50A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:R58A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:T32A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:T53A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:W95A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:Y100AA": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:Y33A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:Y52A": {
+        "modeller_fast": {}
+    },
+    "3BE1_H:Y56A": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:D27AA": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:G31A": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:G51A": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:H91A": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:I27BA": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:I29A": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:P27CA": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:R27DA": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:S28A": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:S30A": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:S52A": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:T93A": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:T94A": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:W50A": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:Y32A": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:Y53A": {
+        "modeller_fast": {}
+    },
+    "3BE1_L:Y92A": {
+        "modeller_fast": {}
+    },
+    "3BN9_H:Q100AV": {
+        "modeller_fast": {}
+    },
+    "3BN9_H:S30G": {
+        "modeller_fast": {}
+    },
+    "3BN9_H:S30N": {
+        "modeller_fast": {}
+    },
+    "3BN9_H:T28R": {
+        "modeller_fast": {}
+    },
+    "3BN9_H:T98Q": {
+        "modeller_fast": {}
+    },
+    "3BN9_H:T98R": {
+        "modeller_fast": {}
+    },
+    "3BN9_H:Y99S": {
+        "modeller_fast": {}
+    },
+    "3G6D_H:H104A": {
+        "modeller_fast": {}
+    },
+    "3G6D_H:W105A": {
+        "modeller_fast": {}
+    },
+    "3G6D_L:T89S;L:M92I;L:V93D;L:T94K": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:A75T;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:A75T;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:F74S;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:F74S;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:F74S;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:F74S;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:F74S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:D73E;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:F74S;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:F74S;H:A75T;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:F74S;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:F74S;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:F74S;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:F74S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:A75T;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:D73E": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:D73E;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:D73E;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:D73E;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:D73E;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:D73E;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:D73E;H:F74S;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:D73E;H:F74S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:D73E;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:D73E;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:D73E;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:F74S;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:F74S;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:F74S;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:F74S;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:F74S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:K58N;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:A75T;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:D73E": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:D73E;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:D73E;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:D73E;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:D73E;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:D73E;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:D73E;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:D73E;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:F74S;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:F74S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:K58N": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:K58N;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:K58N;H:D73E": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:K58N;H:D73E;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:K58N;H:D73E;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:K58N;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:K58N;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:K58N;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:K58N;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:K58N;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:R30S;H:K58N;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:R30S;H:T57A": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:R30S;H:T57A;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:D73E": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:D73E;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:D73E;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:D73E;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:F74S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:K58N": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:K58N;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:K58N;H:D73E": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:K58N;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:K58N;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:K58N;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:T57A;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:P28T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:A75T;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:D73E": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:D73E;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:D73E;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:D73E;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:D73E;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:D73E;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:D73E;H:F74S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:D73E;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:D73E;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:D73E;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:F74S;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:F74S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N;H:D73E": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N;H:D73E;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N;H:D73E;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N;H:D73E;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N;H:F74S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:K58N;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:D73E": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:D73E;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:D73E;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:D73E;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:D73E;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:F74S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:K58N": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:K58N;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:K58N;H:D73E": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:K58N;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:K58N;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:K58N;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:T57A;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:R30S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:A75T;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:D73E": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:D73E;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:D73E;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:D73E;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:D73E;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:D73E;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:D73E;H:F74S;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:D73E;H:F74S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:D73E;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:D73E;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:D73E;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:F74S;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:F74S;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:F74S;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:F74S;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:F74S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:A75T;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:A75T;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:D73E": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:D73E;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:D73E;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:D73E;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:D73E;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:F74S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:F74S;H:A75T": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:F74S;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:F74S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:G76S": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:G76S;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:K58N;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:T57A;H:V100L": {
+        "modeller_fast": {}
+    },
+    "3GBN_H:V100L": {
+        "modeller_fast": {}
+    },
+    "3HFM_H:D32A": {
+        "modeller_fast": {}
+    },
+    "3HFM_H:D32N": {
+        "modeller_fast": {}
+    },
+    "3HFM_H:S31A": {
+        "modeller_fast": {}
+    },
+    "3HFM_H:Y33A": {
+        "modeller_fast": {}
+    },
+    "3HFM_L:N31A": {
+        "modeller_fast": {}
+    },
+    "3HFM_L:N31D": {
+        "modeller_fast": {}
+    },
+    "3HFM_L:N31E": {
+        "modeller_fast": {}
+    },
+    "3HFM_L:N32A": {
+        "modeller_fast": {}
+    },
+    "3HFM_L:Q53A": {
+        "modeller_fast": {}
+    },
+    "3HFM_L:Y50A": {
+        "modeller_fast": {}
+    },
+    "3HFM_L:Y50F": {
+        "modeller_fast": {}
+    },
+    "3HFM_L:Y50L": {
+        "modeller_fast": {}
+    },
+    "3HFM_L:Y96A": {
+        "modeller_fast": {}
+    },
+    "3HFM_L:Y96F": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:E93F;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:E93H;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:H91P;L:N92I;L:E93D;L:Y94A": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:H91P;L:N92L;L:E93D;L:Y94S": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:H91P;L:N92L;L:E93D;L:Y94T": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:H91P;L:N92L;L:E93D;L:Y94V": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:H91P;L:N92L;L:Y94A": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:H91Q;L:N92D;L:E93I;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:H91Q;L:N92D;L:E93L;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:H91Q;L:N92D;L:E93Y;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92D;L:E93L;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92D;L:E93N;L:Y94S": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92D;L:E93P;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92D;L:E93R;L:Y94D": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92D;L:E93W;L:Y94E": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92D;L:E93W;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92D;L:E93W;L:Y94S": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92D;L:E93Y;L:Y94A": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92E;L:E93S;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92E;L:E93W;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92F;L:E93W;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92L;L:E93D;L:Y94S": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92L;L:E93L;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92L;L:E93M;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92L;L:E93N;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92S;L:E93H;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92S;L:E93I;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92S;L:E93S;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92S;L:E93V;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92S;L:E93W;L:Y94A": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92S;L:E93W;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92S;L:E93Y;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92V;L:E93G;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:N92V;L:E93W;L:Y94G": {
+        "modeller_fast": {}
+    },
+    "3L5X_L:Y94A": {
+        "modeller_fast": {}
+    },
+    "3N85_H:S32A": {
+        "modeller_fast": {}
+    },
+    "3N85_H:S32Y": {
+        "modeller_fast": {}
+    },
+    "3N85_H:S50G": {
+        "modeller_fast": {}
+    },
+    "3N85_H:S52Y": {
+        "modeller_fast": {}
+    },
+    "3N85_H:W30K": {
+        "modeller_fast": {}
+    },
+    "3N85_H:W30R": {
+        "modeller_fast": {}
+    },
+    "3N85_H:W96F": {
+        "modeller_fast": {}
+    },
+    "3N85_L:W91F": {
+        "modeller_fast": {}
+    },
+    "3N85_L:W94Y": {
+        "modeller_fast": {}
+    },
+    "3NGB_H:A56G": {
+        "modeller_fast": {}
+    },
+    "3NGB_H:A56G;H:V57T;H:P62K;H:V73T": {
+        "modeller_fast": {}
+    },
+    "3NGB_H:C32S;H:C98A": {
+        "modeller_fast": {}
+    },
+    "3NGB_H:G54S": {
+        "modeller_fast": {}
+    },
+    "3NGB_H:I30T": {
+        "modeller_fast": {}
+    },
+    "3NGB_H:K52N": {
+        "modeller_fast": {}
+    },
+    "3NGB_H:P62K": {
+        "modeller_fast": {}
+    },
+    "3NGB_H:R53N": {
+        "modeller_fast": {}
+    },
+    "3NGB_H:R61Q": {
+        "modeller_fast": {}
+    },
+    "3NGB_H:T33Y": {
+        "modeller_fast": {}
+    },
+    "3NGB_H:V57T": {
+        "modeller_fast": {}
+    },
+    "3NGB_H:V73T": {
+        "modeller_fast": {}
+    },
+    "3NGB_H:Y74S": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:D100CA": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:D99A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:F100DA": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:G55A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:K52A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:L53A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:P76AA": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:P76DA": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:Q62A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:Q64A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:Q75A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:R30A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:R61A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:R71A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:S58A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:V57A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:W47A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:W50A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:W54A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:Y100A": {
+        "modeller_fast": {}
+    },
+    "3SE8_H:Y59A": {
+        "modeller_fast": {}
+    },
+    "3SE8_L:D50A": {
+        "modeller_fast": {}
+    },
+    "3SE8_L:E1A": {
+        "modeller_fast": {}
+    },
+    "3SE8_L:E96A": {
+        "modeller_fast": {}
+    },
+    "3SE8_L:F91A": {
+        "modeller_fast": {}
+    },
+    "3SE8_L:F97A": {
+        "modeller_fast": {}
+    },
+    "3SE8_L:N31A": {
+        "modeller_fast": {}
+    },
+    "3SE8_L:Q27A": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:F74S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:F74S;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:S70T;H:F74S;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:S70T;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:S70T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:S70T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:S70T;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:S70T;H:S75T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:A58N;H:S75T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:A58N;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:A58N;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:A58N;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:A58N;H:S70T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:A58N;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:A58N;H:S75T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:N31S;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:N31S;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:N31S;H:A58N;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:N31S;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:N31S;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:S56T;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:S56T;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:S56T;H:A58N;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:S56T;H:T57A;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:S56T;H:T57A;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:S56T;H:T57A;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:S70T;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:T57A": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:T57A;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:T57A;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:T57A;H:A58N;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:T57A;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:T57A;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:T57A;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:T57A;H:S70T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:T57A;H:S70T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:T57A;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N30S;H:T57A;H:S75T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:A58N;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:A58N;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:A58N;H:S70T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:A58N;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:A58N;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:A58N;H:S75T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:S56T;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:S56T;H:A58N;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:S56T;H:A58N;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:S70T;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:S70T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:S70T;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:S75T;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:S75T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:T57A": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:T57A;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:T57A;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:T57A;H:A58N;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:T57A;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:T57A;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:T57A;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:T57A;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:T57A;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:T57A;H:S70T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:T57A;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N31S;H:T57A;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:A58N;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:A58N;H:S70T;H:F74S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:A58N;H:S70T;H:I73K": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:A58N;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:A58N;H:S70T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:A58N;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N30S;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N30S;H:A58N;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N31S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N31S;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N31S;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N31S;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N31S;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N31S;H:S70T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N31S;H:S70T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N31S;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N31S;H:T57A": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N31S;H:T57A;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N31S;H:T57A;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:N31S;H:T57A;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S56T;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S56T;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S56T;H:A58N;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S56T;H:A58N;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S56T;H:A58N;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S56T;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S56T;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S56T;H:T57A;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S56T;H:T57A;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S56T;H:T57A;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S56T;H:T57A;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S70T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S70T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S70T;H:S75T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:S75T;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:T57A": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:T57A;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:T57A;H:A58N;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:T57A;H:A58N;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:T57A;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:T57A;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:T57A;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:T57A;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:T57A;H:S70T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:T57A;H:S70T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:T57A;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:T57A;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S29F;H:T57A;H:S75T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:A58N;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:A58N;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:A58N;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:A58N;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:A58N;H:S70T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:A58N;H:S70T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:A58N;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:A58N;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:A58N;H:S75T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:T57A": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:T57A;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:T57A;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:T57A;H:A58N;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:T57A;H:A58N;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:T57A;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:T57A;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:T57A;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:T57A;H:S70T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:T57A;H:S70T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S56T;H:T57A;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S70T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S70T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S70T;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S70T;H:S75T;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S70T;H:S75T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:S75T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:A58N": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:A58N;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:A58N;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:A58N;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:A58N;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:A58N;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:A58N;H:S70T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:A58N;H:S70T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:A58N;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:A58N;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:S70T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:S70T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:S70T;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:S70T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:S70T;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:S70T;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:S70T;H:S75T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:S75T": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:S75T;H:N76S": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:S75T;H:N76S;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "4FQY_H:T57A;H:S75T;H:S100BY": {
+        "modeller_fast": {}
+    },
+    "5C6T_H:F104A": {
+        "modeller_fast": {}
+    },
+    "5C6T_H:N102A": {
+        "modeller_fast": {}
+    },
+    "5C6T_H:R31S": {
+        "modeller_fast": {}
+    },
+    "5C6T_H:S32A": {
+        "modeller_fast": {}
+    },
+    "5C6T_H:Y103A": {
+        "modeller_fast": {}
+    },
+    "5C6T_H:Y109A": {
+        "modeller_fast": {}
+    },
+    "5C6T_L:R51A": {
+        "modeller_fast": {}
+    },
+    "5C6T_L:Y50A": {
+        "modeller_fast": {}
     }
 }

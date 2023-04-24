@@ -12,7 +12,7 @@ import sklearn.preprocessing
 import sklearn.metrics
 
 
-def get_experimental_data(ppdbf='ppdb/ppdb.txt'):
+def get_experimental_data(ppdbf='ppdb/all_sequences.txt'):
     """
         Load experimental data to fit. Returns the name of the protein-protein
         complexes and their log(IC50) - only if the value is exact, no "greater
@@ -64,10 +64,15 @@ def pearson_random_sampling(replica=1000):
     """
         Sample multiple models based on random split of train and test sets.
     """
-    descriptors = ['BSA', 'BSA_A', 'BSA_P', 'BSA_C', 'NIS_A', 'NIS_P', 'NIS_C']
-    protocol = 'modeller_veryfast'
+#     descriptors = ['BSA', 'BSA_A', 'BSA_P', 'BSA_C', 'NIS_A', 'NIS_P', 'NIS_C']
+    descriptors = ['HB_BH', 'HB_WN', 'HB_KS', 'BSA', 'BSA_C', 'BSA_A', 'BSA_P', 'NIS_P', 'NIS_C', \
+                   'NIS_A', 'NRES', 'sticky_tot', 'sticky_avg', 'IC_TOT', 'IC_AA', 'IC_PP', 'IC_CC', \
+                   'IC_AP', 'IC_CP', 'IC_AC', 'RF_HA_SRS', 'ENM_R6', 'ENM_EXP', 'Prodigy_IC_NIS']
+#     protocol = 'modeller_veryfast'
+    protocol = 'modeller_fast'
     names, y = get_experimental_data()
-    X = np.loadtxt('rf-data-ref.txt')
+    X = np.loadtxt('rf-data-new.txt')
+#     seeds1, seeds2 = 
     rp = np.array([get_rp(*fit(X, y, random.randrange(100000), random.randrange(100000))) for i in range(replica) ])
     avg = np.average(rp)
     std = np.std(rp)
@@ -86,10 +91,14 @@ def bootstrap(replica=10000):
         Compute it for the "cherry-picked" model and for a random one.
     """
 
-    descriptors = ['BSA', 'BSA_A', 'BSA_P', 'BSA_C', 'NIS_A', 'NIS_P', 'NIS_C']
-    protocol = 'modeller_veryfast'
+#     descriptors = ['BSA', 'BSA_A', 'BSA_P', 'BSA_C', 'NIS_A', 'NIS_P', 'NIS_C']
+    descriptors = ['HB_BH', 'HB_WN', 'HB_KS', 'BSA', 'BSA_C', 'BSA_A', 'BSA_P', 'NIS_P', 'NIS_C', \
+                   'NIS_A', 'NRES', 'sticky_tot', 'sticky_avg', 'IC_TOT', 'IC_AA', 'IC_PP', 'IC_CC', \
+                   'IC_AP', 'IC_CP', 'IC_AC', 'RF_HA_SRS', 'ENM_R6', 'ENM_EXP', 'Prodigy_IC_NIS']
+#     protocol = 'modeller_veryfast'
+    protocol = 'modeller_fast'
     names, y = get_experimental_data()
-    X = np.loadtxt('rf-data-ref.txt')
+    X = np.loadtxt('rf-data-new.txt')
 
     print("Cherry-Picked model")
     random_seed1 = 52871

@@ -12,10 +12,10 @@ import sklearn.metrics
 import joblib
 
 
-def get_experimental_data(ppdbf='ppdb/ppdb.txt'):
+def get_experimental_data(ppdbf='ppdb/all_sequences.txt'):
     """
         Load experimental data to fit. Returns the name of the protein-protein
-        complexes and their log(IC50) - only if the value is exact, no "greater
+        complexes and their ddG - only if the value is exact, no "greater
         than" values.
     """
     names = list()
@@ -52,7 +52,8 @@ def main(ref=True):
     descriptors = ['HB_BH', 'HB_WN', 'HB_KS', 'BSA', 'BSA_C', 'BSA_A', 'BSA_P', 'NIS_P', 'NIS_C', \
                    'NIS_A', 'NRES', 'sticky_tot', 'sticky_avg', 'IC_TOT', 'IC_AA', 'IC_PP', 'IC_CC', \
                    'IC_AP', 'IC_CP', 'IC_AC', 'RF_HA_SRS', 'ENM_R6', 'ENM_EXP', 'Prodigy_IC_NIS']
-    protocol = 'modeller_veryfast'
+#     protocol = 'modeller_veryfast'
+    protocol = 'modeller_fast'
 
     # Names of the complexes and experimental data
     names, y = get_experimental_data()
@@ -132,7 +133,7 @@ def data_compare():
         plt.plot(l, l)
         plt.show()
 
-main(True)
+# main(True)
 main(False)
-data_compare()
+# data_compare()
 

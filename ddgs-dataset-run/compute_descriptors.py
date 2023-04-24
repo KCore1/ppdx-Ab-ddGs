@@ -10,28 +10,28 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(level
 import ppdx
 ppdx.config.cread('config-ppdx.ini')
 
-# Setting up parsl for local execution using max of 12 threads
-import parsl
-from parsl.providers import LocalProvider
-from parsl.channels import LocalChannel
-from parsl.config import Config
-from parsl.executors import HighThroughputExecutor
-local_htex = Config(
-    executors=[
-        HighThroughputExecutor(
-            label="htex_Local",
-            cores_per_worker=1,
-            max_workers=32,
-            provider=LocalProvider(
-                channel=LocalChannel(),
-                init_blocks=1,
-                max_blocks=1,
-            ),
-        )
-    ],
-    strategy=None,
-)
-parsl.load(local_htex)
+# Setting up parsl for local execution using max of 24 threads
+# import parsl
+# from parsl.providers import LocalProvider
+# from parsl.channels import LocalChannel
+# from parsl.config import Config
+# from parsl.executors import HighThroughputExecutor
+# local_htex = Config(
+#     executors=[
+#         HighThroughputExecutor(
+#             label="htex_Local",
+#             cores_per_worker=1,
+#             max_workers=24,
+#             provider=LocalProvider(
+#                 channel=LocalChannel(),
+#                 init_blocks=1,
+#                 max_blocks=1,
+#             ),
+#         )
+#     ],
+#     strategy=None,
+# )
+# parsl.load(local_htex)
 
 def compute(dbpath, nmodels=12, config='pool:12', protocol='modeller_fast'):
 
@@ -102,7 +102,7 @@ if __name__=='__main__':
 #         for protocol in ['modeller_fast']: # , 'modeller_veryfast', 'modeller_slow', 'rosetta'
         protocol = "modeller_veryfast"
         print(n, protocol)
-        compute(os.path.join(os.getcwd(), 'ppdb'), nmodels=n+1, config='parsl', protocol=protocol)
+        compute(os.path.join(os.getcwd(), 'ppdb'), nmodels=n+1, config='pool:24', protocol=protocol) # config='parsl'
         ppdx.clean()
         if os.path.isfile('kill'):
             print('Kill!')

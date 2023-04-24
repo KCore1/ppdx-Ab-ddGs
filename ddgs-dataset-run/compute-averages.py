@@ -4,7 +4,7 @@ import json
 import numpy as np
 
 # Read starting data
-with open('descriptors-all.json', 'r') as fp:
+with open("descriptors-all.json", "r") as fp:
     data = json.load(fp)
 
 # Save averages
@@ -15,9 +15,9 @@ for cpx in data.keys():
         avgs[cpx][protocol] = dict()
         for desc in data[cpx][protocol].keys():
             tmp = list(data[cpx][protocol][desc].values())
-            if len(tmp)>15:
+            if len(tmp) > 15:
                 avgs[cpx][protocol][desc] = np.average(tmp)
-with open('descriptors-avg.json', 'w') as fp:
+with open("descriptors-avg.json", "w") as fp:
     json.dump(avgs, fp, indent=4, sort_keys=True)
 
 # Save medians
@@ -27,7 +27,8 @@ for cpx in data.keys():
     for protocol in data[cpx].keys():
         avgs[cpx][protocol] = dict()
         for desc in data[cpx][protocol].keys():
-            avgs[cpx][protocol][desc] = np.median(list(data[cpx][protocol][desc].values()))
-with open('descriptors-med.json', 'w') as fp:
+            avgs[cpx][protocol][desc] = np.median(
+                list(data[cpx][protocol][desc].values())
+            )
+with open("descriptors-med.json", "w") as fp:
     json.dump(avgs, fp, indent=4, sort_keys=True)
-

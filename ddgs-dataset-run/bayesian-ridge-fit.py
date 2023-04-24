@@ -5,7 +5,7 @@ import numpy as np
 import scipy.stats
 import matplotlib.pyplot as plt
 
-import sklearn.ensemble
+import sklearn.linear_model
 import sklearn.model_selection
 import sklearn.preprocessing
 import sklearn.metrics
@@ -92,15 +92,15 @@ def main(ref=True):
         np.savetxt("rf-data-new.txt", X, header=" ".join(descriptors))
 
     # Setup the Random Forest model
-    mdlfunc = sklearn.ensemble.RandomForestRegressor
-    mdlparams = {"n_estimators": 51, "max_depth": 10, "min_samples_leaf": 2}
-    random_seed1 = 5361
-    random_seed2 = 27465
-    mdl = mdlfunc(random_state=random_seed2, **mdlparams)
+    mdlfunc = sklearn.linear_model.BayesianRidge
+    # mdlparams = {"n_estimators": 51, "max_depth": 10, "min_samples_leaf": 2}
+    # mdl = mdlfunc(random_state=random_seed2, **mdlparams)
+    mdl = mdlfunc()
+    seed = 56798
 
     # Split train and test set, fit a scaler and fit the random forest model
     X_train, X_test, y_train, y_test = sklearn.model_selection.train_test_split(
-        X, y, test_size=0.5, shuffle=True, random_state=random_seed1
+        X, y, test_size=0.5, shuffle=True, random_state=seed
     )
     scaler = sklearn.preprocessing.RobustScaler().fit(X_train)
     mdl.fit(scaler.transform(X_train), y_train)
@@ -151,11 +151,11 @@ def main(ref=True):
     # turn grid on
     plt.grid(True, which="major", color="#F0F0F0", linestyle="-")
     plt.minorticks_on()
-    plt.title("Random Forest Regression")
+    plt.title("Bayesian Ridge Regression")
     plt.xlabel("Experimental $\Delta\Delta G$")
     plt.ylabel("Computed $\Delta\Delta G$")
     plt.savefig(
-        "fig/rf-correlation-%s.png" % ("ref" if ref else "new"),
+        "fig/br-correlation-%s.png" % ("ref" if ref else "new"),
         bbox_inches="tight",
         dpi=300,
     )
@@ -163,7 +163,7 @@ def main(ref=True):
 
     # Save the python object file with all the info
     yp = mdl.predict(scaler.transform(X))
-    joblib.dump([protocol, descriptors, scaler, mdl, X, yp], "rf.joblib")
+    joblib.dump([protocol, descriptors, scaler, mdl, X, yp], "br.joblib")
 
 
 def data_compare():

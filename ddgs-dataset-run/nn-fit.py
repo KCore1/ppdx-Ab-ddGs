@@ -93,15 +93,19 @@ def main(ref=True):
 
     # Setup the Random Forest model
     mdlfunc = sklearn.neural_network.MLPRegressor
-    mdlparams = {"hidden_layers": ((20,), (30,), (20,)), "solver": "lbfgs"}
+    mdlparams = {"hidden_layer_sizes": (20, 30, 20, 10), "solver": "lbfgs", "max_iter": 15000}
     random_seed = 27465
     mdl = mdlfunc(random_state=random_seed, **mdlparams)
+    
+    # Grid search over hyperparameters
+    
 
     # Split train and test set, fit a scaler and fit the random forest model
     X_train, X_test, y_train, y_test = sklearn.model_selection.train_test_split(
-        X, y, test_size=0.2, shuffle=True, random_state=random_seed1
+        X, y, test_size=0.2, shuffle=True, random_state=random_seed
     )
     scaler = sklearn.preprocessing.RobustScaler().fit(X_train)
+    print(X_train.shape)
     mdl.fit(scaler.transform(X_train), y_train)
     y_predict = mdl.predict(scaler.transform(X_test))
     y_check = mdl.predict(scaler.transform(X_train))
